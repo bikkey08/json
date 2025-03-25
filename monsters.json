@@ -3,7 +3,7 @@
 
     "name":"godzilla",
     "location": "japan",
-    "flims"="Godzilla flim Franchise"
+    "flims": "Godzilla flim Franchise"
 
     
   },
@@ -11,7 +11,7 @@
 
     "name":"kingkong",
     "location": "sky island",
-    "flims"="kingkong flim Franchise"
+    "flims": "kingkong flim Franchise"
 
     
   },
@@ -19,14 +19,14 @@
 
     "name":"jaws",
     "location": "zero island",
-    "flims"="jaws flim Franchise"
+    "flims": "jaws flim Franchise"
 
     },
   {
 
     "name":"queen xenomorph",
     "location": "lvl255",
-    "flims"="QX flim Franchise"
+    "flims":" QX flim Franchise"
 
     }
 ]
